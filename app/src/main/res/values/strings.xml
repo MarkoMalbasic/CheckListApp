@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckListApp</string>
+    <string name="menu_search">AAA</string>
+    <string name="menu_settings">BBB</string>
+    <string name="menu_navigation">CCC</string>
+    <string name="hello">Hello</string>
+    <string name="edit_text">Edit text</string>
+    <string name="edit">Edit</string>
+    <string name="yourhint"></string>
+</resources>
